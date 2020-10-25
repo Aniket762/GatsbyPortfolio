@@ -1,5 +1,5 @@
-# GatsbyPortfolio
-PS. This is not my portfolio 
+# GatsbyPortfolio 
+![](/Hnet-image.gif)
 
 <p align="center">
   <a href="https://cara.lekoarts.de">
@@ -11,6 +11,7 @@ PS. This is not my portfolio
 </h1>
 
 
+PS. This is not my portfolio! Practice site
 
 ## ✨ Features
 

@@ -1,5 +1,5 @@
-# GatsbyPortfolio
-A practice portfolio using starter 
+# GatsbyPortfolio 
+![](/Hnet-image.gif)
 
 <p align="center">
   <a href="https://cara.lekoarts.de">
@@ -11,6 +11,7 @@ A practice portfolio using starter
 </h1>
 
 
+PS. This is not my portfolio! Practice site
 
 ## ✨ Features
 

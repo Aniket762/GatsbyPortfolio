@@ -1,5 +1,5 @@
 # GatsbyPortfolio
-A practice portfolio using starter 
+PS. This is not my portfolio 
 
 <p align="center">
   <a href="https://cara.lekoarts.de">
